@@ -1,6 +1,5 @@
 import random
 
-
 def foldandswap(numbers):
 
     n  = len(numbers)
