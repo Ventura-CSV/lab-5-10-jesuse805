@@ -3,6 +3,8 @@ import random
 
 def foldandswap(numbers):
 
+    n  = len(numbers)
+    midpoint = n // 2
 
 
 def main():
