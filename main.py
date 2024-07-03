@@ -5,6 +5,9 @@ def foldandswap(numbers):
 
     n  = len(numbers)
     midpoint = n // 2
+    
+    for i in range(midpoint):
+        numbers[i]
 
 
 def main():
