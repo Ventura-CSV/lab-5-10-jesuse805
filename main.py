@@ -7,8 +7,7 @@ def foldandswap(numbers):
     midpoint = n // 2
     
     for i in range(midpoint):
-        numbers[i]
-
+        numbers[i], numbers[n - 1 - i] = numbers[n - 1 - i], numbers[i]
 
 def main():
     numbers = [2, 3, 0, 5, 4, 1, 6, 9, 8, 7]
