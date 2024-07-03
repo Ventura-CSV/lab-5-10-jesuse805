@@ -2,11 +2,7 @@ import random
 
 
 def foldandswap(numbers):
-    """
-    ########################################
-    Code Your Program here
-    ########################################
-    """
+
 
 
 def main():
